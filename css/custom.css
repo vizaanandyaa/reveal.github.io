@@ -1,0 +1,187 @@
+.fa-envelope{
+	color: #55efc4;
+}
+
+.m{
+	color: #636e72;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+}
+
+.fa-phone-alt{
+	color: #55efc4;
+}
+
+.socmed{
+	color: #636e72;
+}
+
+.logo{
+	color: #0d2970;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.logo span{
+	color:#55efc4;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link{
+	font-family: 'Raleway', sans-serif;
+	color: #636e72;
+}
+
+.nav-link:hover{
+	color:#55efc4;
+}
+
+.now{
+	color:#55efc4;
+}
+
+.banner{
+	 background:url(../images/nyc2.png) no-repeat center;
+	 background-size: cover;
+	 background-position-y:0px;
+}
+
+.headline {
+	color: #0d2970;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.headline span{
+	color:#55efc4;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: underline;	
+}
+
+.button1{
+	padding: 10px 25px;
+	background-color:#0d2970;
+  	border: none;
+  	color: white;
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 15px;
+  	opacity: 1;
+  	transition: 0.3s;
+  	cursor: pointer;
+}
+
+.button2{
+	padding: 10px 25px;
+	background-color: #55efc4;
+  	border: none;
+  	color: white;
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 15px;
+  	opacity: 1;
+  	transition: 0.3s;
+  	cursor: pointer;
+}
+
+.button1:hover{
+	opacity: 0.6;
+}
+
+.button2:hover{
+	opacity: 0.6;
+}
+
+.title{
+	color: #0d2970;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.font-italic{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+
+.isi{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	color: #000000;
+	font-size: 14px;
+}
+
+.fa-check-circle{
+	color:#55efc4;
+}
+
+.bg-white{
+	box-shadow: 10px 9px 20px #e3e1e1;
+}
+
+.icon{
+	color: #55efc4;
+}
+
+.text-dark{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.job{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+}
+
+.aksi{
+	background: #0d2970;
+}
+
+.text-white{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.block{
+	font-family: 'Montserrat', sans-serif;
+	border:none;
+	padding: 15px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+}
+
+.button3{
+	background-color: #0d2970;
+	color: white;
+	border:4px solid white;
+}
+
+.button3:hover {
+	background-color: #fff;
+	color: #0d2970;
+}
+
+@media (max-width: 767px) {
+	.button3{
+		margin-top: 35px;
+	}
+}
+
+.info{
+	background-color: #55efc4;
+}
+
+.as{
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 12px;
+	color: white;
+}
+
+.socmed2{
+	color: white;
+}
+
+.text-secondary{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.fa-map-marker-alt{
+	color:#55efc4;
+}
